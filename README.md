@@ -156,7 +156,7 @@ There are 2 methods to do this. Method 2 requires you to have Git and Node.js in
        ```bash
        npm run deploy:cloudflare-worker
        ```
-7. Click `Connect`
+7. Click `Connect`a
 8. Trigger a redeployment by editing the README file at your fork (you can just add a letter and click commit changes)
 9. You can find the URL for your cloudflare worker by clicking `View version` at the `Deployments` tab under the `Active deployments` section
 
