@@ -191,7 +191,7 @@ Go to your forked GitHub repository and click sync fork. This should trigger a d
 
 To update the addon, you can simply run the following commands to pull the latest changes, build the project, and deploy the worker.
 This will update the worker with the latest changes, which may not be stable. In case, you get the build error about `node:sqlite` again, follow the instructions linked above again. 
-
+aaa
 ```
 git pull --rebase
 npm run build
